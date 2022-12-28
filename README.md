@@ -1,4 +1,4 @@
-# holux-real-state-agency
+# holux-real-estate-agency
 
 -Firebase setup
-firebase deploy --only hosting:holuxRealStateAgency
+firebase deploy --only hosting:holuxRealEstateAgency

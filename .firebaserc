@@ -3,8 +3,8 @@
   "targets": {
     "designwebsites-55d34": {
       "hosting": {
-        "holuxRealStateAgency": [
-          "holux-real-state-agency"
+        "holuxRealEstateAgency": [
+          "holux-real-estate-agency"
         ]
       }
     }
